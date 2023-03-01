@@ -1,0 +1,45 @@
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\Common.Lib.deps.json
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\Common.Lib.dll
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\Common.Lib.pdb
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.AssemblyReference.cache
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.AssemblyInfo.cs
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.dll
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\refint\Common.Lib.dll
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.pdb
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\ref\Common.Lib.dll
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\SQLHelper.dll
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\SQLHelper.pdb
+C:\Users\Parashar\Desktop\intern\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.CopyComplete
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\Common.Lib.deps.json
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\Common.Lib.dll
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\Common.Lib.pdb
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\SQLHelper.dll
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\bin\Debug\net6.0\SQLHelper.pdb
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.AssemblyReference.cache
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.AssemblyInfo.cs
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.CopyComplete
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.dll
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\refint\Common.Lib.dll
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\Common.Lib.pdb
+C:\Users\Parashar\Desktop\jquery sahit\Intern_dec22\WebApp\Common.Lib\obj\Debug\net6.0\ref\Common.Lib.dll
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.dll
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\refint\Common.Lib.dll
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.pdb
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\bin\Debug\net6.0\Common.Lib.deps.json
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\bin\Debug\net6.0\Common.Lib.dll
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\bin\Debug\net6.0\Common.Lib.pdb
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\bin\Debug\net6.0\SQLHelper.dll
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\bin\Debug\net6.0\SQLHelper.pdb
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.AssemblyReference.cache
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.AssemblyInfo.cs
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\Common.Lib.csproj.CopyComplete
+C:\Users\Parashar\source\repos\ETrafficProject\Common.Lib\obj\Debug\net6.0\ref\Common.Lib.dll

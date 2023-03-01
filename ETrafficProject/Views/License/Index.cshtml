@@ -1,0 +1,40 @@
+﻿@model IEnumerable<LicenseItemModel>;
+<h2>All Licenses</h2>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th scope="col">Name</th>
+            <th scope="col"> Date of Birth</th>
+            <th scope="col"> Name of Father</th>
+            <th scope="col">Issuing Office</th>
+            <th scope="col">Actions</th>
+
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td >@item.name</td>
+                <td>@item.dob</td>
+                <td>@item.fathername</td>
+                <td>@item.licenseoffice</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" style="width:50px;" asp-action="GetlicenseByDd" asp-route-id="@item.licenseid">Edit</a>
+                   <form style="display:inline-block;width:50px;" method="post" asp-action="Delete">
+                        <button type="submit" class="btn btn-sm btn-danger" asp-action="delete" onclick="return confirm('Are you sure?')" asp-route-id="@item.licenseid">Delete</button>
+                    </form>
+                </td>
+
+
+            </tr>
+
+
+        }
+    </tbody>
+</table>
+
+

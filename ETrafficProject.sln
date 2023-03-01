@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETrafficProject", "ETrafficProject\ETrafficProject.csproj", "{335D769C-C12A-4FDF-A196-51CD297CE7C1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{070F78A0-5A05-40A6-BE49-12A8942DA7C9} = {070F78A0-5A05-40A6-BE49-12A8942DA7C9}
+		{A5A6C12A-08C6-4C7F-8E9F-32FE69C9F0E6} = {A5A6C12A-08C6-4C7F-8E9F-32FE69C9F0E6}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLHelper", "..\ETraffic\SQLHelper\SQLHelper.csproj", "{070F78A0-5A05-40A6-BE49-12A8942DA7C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Lib", "Common.Lib\Common.Lib.csproj", "{A5A6C12A-08C6-4C7F-8E9F-32FE69C9F0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335D769C-C12A-4FDF-A196-51CD297CE7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335D769C-C12A-4FDF-A196-51CD297CE7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335D769C-C12A-4FDF-A196-51CD297CE7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335D769C-C12A-4FDF-A196-51CD297CE7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070F78A0-5A05-40A6-BE49-12A8942DA7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070F78A0-5A05-40A6-BE49-12A8942DA7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070F78A0-5A05-40A6-BE49-12A8942DA7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070F78A0-5A05-40A6-BE49-12A8942DA7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A6C12A-08C6-4C7F-8E9F-32FE69C9F0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A6C12A-08C6-4C7F-8E9F-32FE69C9F0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A6C12A-08C6-4C7F-8E9F-32FE69C9F0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A6C12A-08C6-4C7F-8E9F-32FE69C9F0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A19B4364-F5E8-49E5-BB0A-6C6E1D50B14F}
+	EndGlobalSection
+EndGlobal

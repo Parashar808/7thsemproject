@@ -1,0 +1,35 @@
+﻿@model IEnumerable<BluebookItemModel>;
+<h2>All Bluebook</h2>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th scope="col">Name of vehicle owner</th>
+            <th scope="col"> Engine Number</th>
+            <th scope="col"> Chassis Number</th>
+            <th scope="col">Cylinder Number</th>
+            <th scope="col">Actions</th>
+
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.bikeownername</td>
+                <td>@item.engineno</td>
+                <td>@item.chassisno</td>
+                <td>@item.cylinderno</td>
+                
+
+
+            </tr>
+
+
+        }
+    </tbody>
+</table>
+
+
